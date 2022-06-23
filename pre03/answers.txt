@@ -1,0 +1,5 @@
+Banana program-- takes the value of kiwi (starting at 1) and multiples it by each elements in list a
+
+
+Grapefruit program -- Runs a loop for the length of a, checks each element in a and see if grape appears in the list. If it does it prints out the index.
+
