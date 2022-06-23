@@ -8,5 +8,5 @@ public static powArray(double a[]){
     return a;
 }
 
-
+ 
 
