@@ -10,7 +10,7 @@ public class print {
     boolean[] primeNum = new boolean[num];
     for (int i= 2; i<=num;i++){
       if(isPrime(i)){
-        primeNum[i-1] = true
+        primeNum[i-1] = true;
         System.out.println(i); 
       }
     }

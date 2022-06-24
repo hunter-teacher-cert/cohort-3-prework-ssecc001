@@ -1,0 +1,9 @@
+ 
+No, I wug.
+You wugga wug.
+I wug.
+
+When ping is called it prints a period and creates a new line.
+When baffle is called, it prints "wug" and then calls ping and prints a period.
+
+.wug would be added to ping
